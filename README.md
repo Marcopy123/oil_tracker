@@ -9,6 +9,24 @@ Termcolor
 
 Cprint
 
+## Installing Modules
+For installing Pandas:
+``` 
+pip install pandas
+```
+For installing Matplotlib:
+``` 
+pip install matplotlib
+```
+For installing Termcolor:
+``` 
+pip install termcolor
+```
+For installing Cprint:
+``` 
+pip install cprint
+```
+
 ## Plot
 ![oil](https://user-images.githubusercontent.com/50530429/80919417-cc635100-8d37-11ea-84e1-58fc1eb70911.png)
 
